@@ -5,3 +5,4 @@ for i in range (1,10,3):
 
 a=i%2
 print(a)
+print('this is good')
